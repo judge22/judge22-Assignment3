@@ -1,0 +1,15 @@
+E:\ALL.net\Assigments & Solutions\lec1c#solution\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+E:\ALL.net\Assigments & Solutions\lec1c#solution\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.AssemblyInfoInputs.cache
+E:\ALL.net\Assigments & Solutions\lec1c#solution\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.AssemblyInfo.cs
+E:\ALL.net\Assigments & Solutions\lec1c#solution\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.csproj.CoreCompileInputs.cache
+E:\ALL.net\Assigments & Solutions\lec1c#solution\CSharpBasicsAssignment\bin\Debug\net10.0\CSharpBasicsAssignment.exe
+E:\ALL.net\Assigments & Solutions\lec1c#solution\CSharpBasicsAssignment\bin\Debug\net10.0\CSharpBasicsAssignment.deps.json
+E:\ALL.net\Assigments & Solutions\lec1c#solution\CSharpBasicsAssignment\bin\Debug\net10.0\CSharpBasicsAssignment.runtimeconfig.json
+E:\ALL.net\Assigments & Solutions\lec1c#solution\CSharpBasicsAssignment\bin\Debug\net10.0\CSharpBasicsAssignment.dll
+E:\ALL.net\Assigments & Solutions\lec1c#solution\CSharpBasicsAssignment\bin\Debug\net10.0\CSharpBasicsAssignment.pdb
+E:\ALL.net\Assigments & Solutions\lec1c#solution\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.dll
+E:\ALL.net\Assigments & Solutions\lec1c#solution\CSharpBasicsAssignment\obj\Debug\net10.0\refint\CSharpBasicsAssignment.dll
+E:\ALL.net\Assigments & Solutions\lec1c#solution\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.pdb
+E:\ALL.net\Assigments & Solutions\lec1c#solution\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.genruntimeconfig.cache
+E:\ALL.net\Assigments & Solutions\lec1c#solution\CSharpBasicsAssignment\obj\Debug\net10.0\ref\CSharpBasicsAssignment.dll
+E:\ALL.net\Assigments & Solutions\lec1c#solution\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBa.D9D76A20.Up2Date
